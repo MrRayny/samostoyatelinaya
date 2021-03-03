@@ -1,0 +1,145 @@
+*{
+	margin: 0;
+}
+.hren{
+	background-color: gray;
+	height: 20px;
+}
+header{
+	height: 120px;
+	display: grid;
+}
+header h1{
+	font-family: 'Poppins', sans-serif;
+	margin-top: 30px; 
+	margin-left: 50px;
+
+}
+header div{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 50px;
+}
+header a{
+	text-decoration: none;
+	color: darkgray;
+	margin-left: 40px;
+	font-size: 20px;
+}
+.main{
+	display: grid;
+	height: 700px;
+	background-image: url(img/Шампунь.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Poppins', sans-serif;
+}
+.main h1{
+	margin-left: 1000px;
+	margin-top: 100px; 
+	text-align: center;
+}
+.main p{
+	margin-left: 1000px;
+	margin-top: -100px;
+	text-align: center;
+}
+.main a{
+	width: 300px;
+	height: 26px;
+	font-size: 17px;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 1130px;
+	margin-top: -120px;
+	color: grey;
+	border: 1px grey solid;
+	border-radius: 50px;
+}
+#gala{
+	position: absolute;
+	width: 50px;
+	margin-left: 755px;
+	margin-top: 40px;
+}
+.sobachka{
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+}
+.sobachka h2{
+	margin-left: 240px;
+	margin-top: 100px;
+}
+.sobachka2{
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+}
+.sobachka2 p{
+	margin-left: 170px;
+	margin-top: 40px;
+	text-align: center;
+	width: 280px;
+	font-size: 30px;
+}
+.information{
+	width: 50%;
+	height: 440px;
+	font-family: 'Poppins', sans-serif;
+	background-color: #FAE3D3;
+}
+.information h1{
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.information p{
+	margin-left: 390px;
+	margin-top: 30px;
+	font-size: 30px;
+}
+#devushka{
+	position: absolute;
+	margin-left: 50%;
+	margin-top: -124px;
+	width: 50%;
+}
+.information2{
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+
+}
+.information2 h1{
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.information2 p{
+	position: absolute;
+	margin-left: 1130px;
+	margin-top: 170px;
+	font-size: 30px;
+}
+#shetka{
+	margin-bottom: -30px;
+	width: 50%;
+	height: 440px;
+}
+.information3{
+	margin-top: -70px;
+	width: 50%;
+	height: 440px;
+	font-family: 'Poppins', sans-serif;
+}
+.information3 h1{
+	margin-left: 250px;
+	margin-top: 100px;
+}
+.information3 p{
+	margin-left: 390px;
+	margin-top: 30px;
+	font-size: 30px;
+}
+#paren{
+	position: absolute;
+	margin-left: 50%;
+	margin-top: -124px;
+	width: 50%;
+}
